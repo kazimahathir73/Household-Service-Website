@@ -16,5 +16,5 @@ Welcome to our Household Service Platform! We offer a convenient solution to man
 
 * **PHP** 
 * **MySQL (XAMPP)**
-* * **HTML** 
+* **HTML** 
 * **CSS** 
